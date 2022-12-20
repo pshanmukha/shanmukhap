@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "af096419a909001d07a65a8e87a6a3ad",
+  "assets/AssetManifest.json": "2d6248961cf0b838c61cb2d94508ac48",
+"assets/assets/docs/shanmukharesume.pdf": "829c056835ad814e3a72017247788146",
 "assets/assets/icons/behance.svg": "35ad2d47e647d0b168e7707b2984c6b5",
 "assets/assets/icons/check.svg": "4220c82511cc1dfb40b8bba7d25c5f55",
 "assets/assets/icons/download.svg": "628700a3031424d215a441fab2da1731",
@@ -28,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "04dc28cb69875810410cfc433875dacb",
-"/": "04dc28cb69875810410cfc433875dacb",
-"main.dart.js": "a5838795729345366195136577ada631",
+"index.html": "a20749af3ebf7232b31eca8964120c1b",
+"/": "a20749af3ebf7232b31eca8964120c1b",
+"main.dart.js": "189d3ff21d9c881946f0ecca0c189e13",
 "manifest.json": "dfaea2038e2ab00ceb1edd559b8a0ce0",
 "sp_black1.jpg": "1e921dccc7679ddddf260034a703e9ad",
 "styles.css": "fc663bc82a490540c0312ec45588de52",
