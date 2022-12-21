@@ -59848,7 +59848,7 @@ A.HA.prototype={
 J(a,b){var s=null,r=t.p
 return new A.Dd(A.agT(!0,A.eB(A.a([B.Gi,A.oU(new A.oD(A.q1(),new A.d1(B.lE,A.eB(A.a([B.uA,B.uz,B.uy,B.Ir,B.cV,B.xK,B.C2,B.lv,B.e5,A.ahe(A.afp(B.D,A.i9(A.a([A.ch("Download CV",s,s,A.f_(s,s,A.av(b).a_.z.b,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.e4,A.a1P("assets/icons/download.svg")],r),B.Y,B.J,B.ak),B.o,B.kF),new A.a_L()),A.ei(s,A.i9(A.a([B.cW,A.Ec(s,A.a1P("assets/icons/linkedin.svg"),s,new A.a_M(),s),A.Ec(s,A.a1P("assets/icons/github.svg"),s,new A.a_N(),s),A.Ec(s,A.a1P("assets/icons/twitter.svg"),s,new A.a_O(),s),B.cW],r),B.Y,B.J,B.ak),B.o,B.yi,s,s,s,s,B.B0,s,s,s,s)],r),B.Y,B.J),s),B.aL,s),1)],r),B.Y,B.J),!0),s)}}
 A.a_L.prototype={
-$0(){var s=A.aez("lib/utility/shanmukharesume.pdf")
+$0(){var s=A.aez("https://drive.google.com/uc?export=download&id=18mlQJfszm_W0rqcCTT1cNHAyv2rRt8Uv")
 s.download="Shanmukha_Resume"
 s.click()
 return null},
